@@ -10,6 +10,9 @@ public class DockerJenkinsApplication {
 		System.out.println("hello");
 		System.out.println("hello");
 		System.out.println("fdeff");
+		System.out.println("hello");
+		System.out.println("hello");
+		System.out.println("fdeff");
 		SpringApplication.run(DockerJenkinsApplication.class, args);
 	}
 
